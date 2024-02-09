@@ -3,5 +3,5 @@
 
 # Links
 
-- [Part 1](https://dev.to/mr_eking/advanced-blazor-state-management-using-fluxor-part-1-696)
-- [Part 2](https://dev.to/mr_eking/advanced-blazor-state-management-using-fluxor-part-2-io7)
+- [To Read](https://dev.to/mr_eking/advanced-blazor-state-management-using-fluxor-part-1-696)
+- [Github Repo (.NET 5)](https://github.com/eric-king/BlazorWithFluxor/tree/main)
